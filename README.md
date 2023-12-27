@@ -16,5 +16,3 @@ Here are some things about me:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYYYanyangyu&theme=dark&layout=compact" alt="SYYYanyangyu's github top languages" />
 </p>
 
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SYYYanyangyu)
