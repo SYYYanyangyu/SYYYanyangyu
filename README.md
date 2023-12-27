@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm <a href="https://github.com/SYYYanyangyu">SYYYanyangyu</a>!</h2></h2>
+<h2>Hi there 👋, I'm <a href="https://github.com/SYYYanyangyu">NoodlesQaQ</a>!</h2></h2>
 
 Here are some things about me:
 
@@ -19,5 +19,5 @@ Here are some things about me:
 <h2>Visitors:</h2>
 
 <p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/SYYYanyangyu=https://github.com/SYYYanyangyu" alt="visitor badge"/>
+  ![](https://activity-graph.herokuapp.com/graph?username=SYYYanyangyu&theme=github)
 </p>
