@@ -16,8 +16,3 @@ Here are some things about me:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYYYanyangyu&theme=dark&layout=compact" alt="SYYYanyangyu's github top languages" />
 </p>
 
-<h2>Visitors:</h2>
-
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SYYYanyangyu&theme=xcode" /> </div>
-
