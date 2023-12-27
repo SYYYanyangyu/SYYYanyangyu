@@ -18,6 +18,4 @@ Here are some things about me:
 
 <h2>Visitors:</h2>
 
-<p align="left">
-  ![](https://activity-graph.herokuapp.com/graph?username=SYYYanyangyu&theme=github)
-</p>
+![](https://activity-graph.herokuapp.com/graph?username=SYYYanyangyu&theme=github)
