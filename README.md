@@ -2,7 +2,7 @@
 
 Here are some things about me:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ehi
 - 🌱 I’m currently learning React , ts , algorithm
 - 👯 I’m looking to collaborate on https://github.com/SYYYanyangyu/Noodles.LnEnUI 
 - 🤔 I’m looking for help with [listen project](https://github.com/SYYYanyangyu/Noodles.LnEnUI )
