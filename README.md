@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm <a href="https://github.com/SYYYanyangyu">NoodlesQaQ</a>!</h2></h2>
+<h2>Hi there 👋, I'm <a href="https://github.com/SYYYanyangyu">noodlesQaQ</a>!</h2></h2>
 
 Here are some things about me:
 
